@@ -1,1 +1,1 @@
-A responsive website mainly using HTML and CSS 
+A responsive webpage mainly using HTML and CSS 
